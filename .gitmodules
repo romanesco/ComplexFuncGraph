@@ -1,0 +1,6 @@
+[submodule "Assets/Surface4D"]
+	path = Assets/Surface4D
+	url = https://github.com/romanesco/Surface4D.git
+[submodule "Assets/Pcx4D"]
+	path = Assets/Pcx4D
+	url = https://github.com/romanesco/Pcx4D.git
